@@ -6,3 +6,6 @@ A.A. 2025-2026 - UNIVERSITA' DEGLI STUDI DI MILANO.
 VOTE: 
 
 Group project.
+
+# Language and tool we used
+
