@@ -7,5 +7,5 @@ VOTE:
 
 Group project.
 
-# Language and tool we used
+## Language and tool we used
 
